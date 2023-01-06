@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/godspowerufot/meme-generator/static/css/main.ff235584.css",
-    "main.js": "/godspowerufot/meme-generator/static/js/main.9ec98f3a.js",
-    "index.html": "/godspowerufot/meme-generator/index.html",
-    "main.ff235584.css.map": "/godspowerufot/meme-generator/static/css/main.ff235584.css.map",
-    "main.9ec98f3a.js.map": "/godspowerufot/meme-generator/static/js/main.9ec98f3a.js.map"
+    "main.css": "/meme-generator/static/css/main.ff235584.css",
+    "main.js": "/meme-generator/static/js/main.9ec98f3a.js",
+    "index.html": "/meme-generator/index.html",
+    "main.ff235584.css.map": "/meme-generator/static/css/main.ff235584.css.map",
+    "main.9ec98f3a.js.map": "/meme-generator/static/js/main.9ec98f3a.js.map"
   },
   "entrypoints": [
     "static/css/main.ff235584.css",
