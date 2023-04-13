@@ -1,4 +1,4 @@
-
+2
 Meme Generator
 This meme generator is a web application that allows users to generate random memes or create their own customized memes by adding their own text to existing meme templates.
 
@@ -12,7 +12,7 @@ Type your desired text in the text boxes provided.
 Customize the font, size, and color of your text.
 Save your meme or share it on social media.
 Technologies Used
-The meme generator was built using HTML, CSS, and JavaScript. The meme templates are sourced from various websites, and the text customization is powered by the Canvas API.
+The meme generator was built using reactjs, CSS, . The meme templates are sourced from various websites, and the text customization is powered by the Canvas API.
 
 Future Updates
 In the future, we plan to add more templates and features to the meme generator, including the ability to upload your own images and create memes from scratch.
