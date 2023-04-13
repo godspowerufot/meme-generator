@@ -1,4 +1,24 @@
-<<<<<<< HEAD
+
+Meme Generator
+This meme generator is a web application that allows users to generate random memes or create their own customized memes by adding their own text to existing meme templates.
+
+Usage
+To use the meme generator, simply go to the website and click on the "Random Meme" button to generate a random meme. Alternatively, you can select a template from the available options and add your own text to create a customized meme.
+
+To create a customized meme, follow these steps:
+
+Select a template from the available options.
+Type your desired text in the text boxes provided.
+Customize the font, size, and color of your text.
+Save your meme or share it on social media.
+Technologies Used
+The meme generator was built using HTML, CSS, and JavaScript. The meme templates are sourced from various websites, and the text customization is powered by the Canvas API.
+
+Future Updates
+In the future, we plan to add more templates and features to the meme generator, including the ability to upload your own images and create memes from scratch.
+
+
+By<<<<<<< HEAD
 # meme-generator
 =======
 # Getting Started with Create React App
